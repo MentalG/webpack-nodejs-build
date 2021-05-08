@@ -1,7 +1,7 @@
 {
-  "name": "petrucciobot",
+  "name": "webpack-nodejs-build",
   "version": "1.0.0",
-  "description": "telegram bot",
+  "description": "just a boilerplate",
   "main": "index.js",
   "scripts": {
     "serve": "webpack --watch"
